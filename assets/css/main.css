@@ -10,7 +10,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #feb900;
+  --color-primary: #2e3135;
   --color-secondary: #52565e;
 }
 
@@ -1726,7 +1726,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: var(--color-primary);
+  background: #2e3135;
   border: 0;
   padding: 10px 35px;
   color: #fff;
