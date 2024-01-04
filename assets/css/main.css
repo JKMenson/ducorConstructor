@@ -10,7 +10,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #2e3135;
+  --color-primary: #cea135;
   --color-secondary: #52565e;
 }
 
@@ -242,7 +242,7 @@ section {
   top: 0;
   left: 0;
   right: 0;
-  background-color: #2e3135;
+  background-color:  #11122b;
 }
 
 .header .logo img {
@@ -639,7 +639,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit] {
-  background: var(--color-primary);
+  background: #11122b;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -2559,6 +2559,7 @@ section {
 .footer:before {
   content: "";
   background: rgba(0, 0, 0, 0.8);
+  /* background:  #11122b; */
   position: absolute;
   inset: 0;
 }
@@ -2655,5 +2656,5 @@ section {
 }
 
 .footer .footer-legal .credits a {
-  color: var(--color-primary);
+  color: #fff;
 }
